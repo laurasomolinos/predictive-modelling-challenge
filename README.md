@@ -2,6 +2,8 @@
 
 This project was developed as part of a university prediction challenge focused on solving multiple real-world estimation and forecasting problems using statistical analysis and machine learning techniques.
 
+Algorítmica Numérica - UPM (2024)
+
 ## Project Structure
 
 ```text
