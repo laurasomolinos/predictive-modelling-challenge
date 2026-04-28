@@ -13,7 +13,8 @@ This project was developed as part of a university prediction challenge focused 
 │   ├── F1.csv
 │   └── forecast_data.csv
 └── images/
-    └── lake_area.png ´´´
+    └── lake_area.png
+```
 
 
 ## Project Overview
